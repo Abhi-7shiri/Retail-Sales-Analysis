@@ -24,3 +24,6 @@ An interactive data analytics portfolio tracking dynamic e-commerce business met
  **Regional Dominance:** The West region leads all territories with $0.73M in sales, showing strong customer density and market penetration.
  **Category Driver:** Technology is the primary engine of high-value growth, outperforming Furniture and Office Supplies in total margin generation.
  **Discount Optimization Opportunity:** Sub-category analysis shows high discounting strategies on heavy furniture segments directly depress the overall 12.47% profit margin floor.
+
+## Dashboard Preview
+![E-Commerce Dashboard](Screenshot%202026-11-04%20172237.png)
